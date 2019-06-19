@@ -1,0 +1,17 @@
+{
+  "name": "@design4pro/quark",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/design4pro/quark.git",
+  "author": "Rafał Wolak <r.wolak@design4.pro>",
+  "license": "MIT",
+  "scripts": {
+    "version": "./node_modules/.bin/lerna version --conventional-commits"
+  },
+  "devDependencies": {
+    "lerna": "^3.15.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

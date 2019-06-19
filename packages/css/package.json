@@ -1,0 +1,26 @@
+{
+  "name": "@design4pro/quark-css",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Rafal Wolak <rafal@tomandco.co.uk>",
+  "homepage": "https://github.com/design4pro/quark#readme",
+  "license": "MIT",
+  "main": "lib/css.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/design4pro/quark.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/design4pro/quark/issues"
+  }
+}
